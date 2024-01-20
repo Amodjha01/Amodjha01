@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amod Kumar Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="image" width="400" src="https://i.pinimg.com/564x/5f/5f/9a/5f5f9a527f48f0f7f4a181d5fb052917.jpg">
+<img align="right" alt="image" width="400" src="[https://i.pinimg.com/564x/5f/5f/9a/5f5f9a527f48f0f7f4a181d5fb052917.jpg](https://i.pinimg.com/originals/ea/49/1a/ea491a494e39cab8b1a0447afea7f8ba.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amodjha01" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Python, Java, JavaScript, Database**
+- 💬 Ask me about **Python, Java, SQL, JavaScript, Database**
 
 - 📫 How to reach me **amoddss01@gmail.com**
 
-- ⚡ Fun fact **Gaming**
+- ⚡ Hobbies **Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
