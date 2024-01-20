@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amod Kumar Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="image" width="400" src="[https://i.pinimg.com/564x/5f/5f/9a/5f5f9a527f48f0f7f4a181d5fb052917.jpg](https://i.pinimg.com/originals/ea/49/1a/ea491a494e39cab8b1a0447afea7f8ba.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amodjha01" /> </p>
 
@@ -8,17 +7,31 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Python, Java, SQL, JavaScript, Database**
+- 💬 Ask me about **C/C++, Java,Python SQL, JavaScript, Database**
 
 - 📫 How to reach me **amoddss01@gmail.com**
 
 - ⚡ Hobbies **Gaming**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amod__jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amod__jha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amod-kumar-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amod-kumar-jha" height="30" width="40" /></a>
-<a href="https://instagram.com/amod__jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amod__jha" height="30" width="40" /></a>
+<p align="center" dir="auto">
+<a href="https://linkedin.com/in/amod-kumar-jha" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amod-kumar-jha" height="30" width="40" />Amod Kumar Jha</a>
+<a href="https://instagram.com/amod__jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amod__jha" height="30" width="40" />@amod__jha</a>
+<a href="https://twitter.com/amod__jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amod__jha" height="30" width="40" />@amod__jha</a>
+</p>
+
+<p dir="auto">
+  <i>
+    <b>Credits</b>
+  </i>
+  " : "
+  <a href="https://github.com/amodjha01">Amod Kumar Jha</a>
+  <br>
+  <br>
+  <i>
+    <b>Last Edited on</b>
+  </i>
+  " : 15/06/2023 "
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
