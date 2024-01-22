@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amod Kumar Jha</h1>
+<h1 align="center">Hi Visitors👋,<h3 color: #fd3203;>जय श्री राम</h3>  I'm Amod Kumar Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amodjha01" /> </p>
@@ -33,6 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amodjha01&show_icons=true&locale=en" alt="amodjha01" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amodjha01&" alt="amodjha01" /></p>
+
+
 
 <hr>
 <h3 align="left">Connect with me:</h3>
