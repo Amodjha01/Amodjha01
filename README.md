@@ -1,4 +1,4 @@
-<h1 align="center">Hi Visitors👋,<h3 color: #fd3203;>जय श्री राम</h3>  I'm Amod Kumar Jha</h1>
+<h1 align="center">Hi Visitors👋,I'm Amod Kumar Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amodjha01" /> </p>
