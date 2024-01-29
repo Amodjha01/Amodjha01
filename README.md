@@ -1,4 +1,4 @@
-<h1 align="center">Hi Visitors👋,I'm Amod Kumar Jha</h1>
+<h1 align="center" id="animationTarget">Hi Visitors👋,I'm Amod Kumar Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amodjha01" /> </p>
@@ -58,3 +58,29 @@
   " : 15/06/2023 "
 </p>
 
+ <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      animateLetters('Hi Visitors👋,I\'m Amod Kumar Jha', 'animationTarget');
+    });
+
+    function animateLetters(text, elementId) {
+      const element = document.getElementById(elementId);
+      const letters = text.split('');
+
+      // Clear the content of the element
+      element.innerHTML = '';
+
+      // Use setInterval to continuously append letters with a delay
+      let index = 0;
+      const intervalId = setInterval(() => {
+        const span = document.createElement('span');
+        span.textContent = letters[index];
+        element.appendChild(span);
+        index++;
+
+        if (index === letters.length) {
+          clearInterval(intervalId); // Stop the interval when all letters are appended
+        }
+      }, 100); // Adjust the delay (in milliseconds) as needed
+    }
+  </script>
