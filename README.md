@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C/C++, Java,Python SQL, JavaScript, Database**
+- 💬 Ask me about **C/C++, Java,Python SQL, JavaScript, Database, MERN Stack**
 
 - 📫 How to reach me **amoddss01@gmail.com**
 
